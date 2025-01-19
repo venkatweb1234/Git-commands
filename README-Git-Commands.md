@@ -28,7 +28,7 @@ _A list of my commonly used Git commands_
 
 | Command | Description |
 | ------- | ----------- |
-| `git branch` | List branches (the asterisk denotes the current branch) |
+| `git branch` | List branches (the asterisk denotes the current branch) and |
 | `git branch -a` | List all branches (local and remote) |
 | `git branch [branch name]` | Create a new branch |
 | `git branch -d [branch name]` | Delete a branch |
